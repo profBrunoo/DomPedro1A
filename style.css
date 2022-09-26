@@ -2,9 +2,10 @@ body{
     background-color: rgba(43, 177, 226, 0.483);
 }
 h1{
-    color: aqua;
+    color: rgb(15, 30, 105);
     font-family: impact;
-    background-color: rgb(247, 247, 6);
+    background-color: rgb(244, 244, 244);
+    text-align: center;
 }
 p{
     color: rgb(107, 37, 49);
