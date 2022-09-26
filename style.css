@@ -8,9 +8,9 @@ h1{
     text-align: center;
 }
 p{
-    color: rgb(107, 37, 49);
+    color: rgb(0, 0, 0);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: greenyellow;
-    font-size: 20px;
+    background-color: rgb(206, 212, 196);
+    font-size: 700px;
 
 }
